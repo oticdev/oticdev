@@ -18,7 +18,7 @@
 I'm an **AI Forward Deployed Engineer** — I take AI from prototype to production. With **4 years of backend engineering** and AWS roots since 2020, I bring the engineering depth to make AI systems reliable, scalable, and actually useful in customer environments.
 
 - 🚀 &nbsp;Shipping **voice agents**, **RAG systems**, and **agentic pipelines** in production
-- 🧠 &nbsp;Trained under **Ed Donner** — LLM Engineering, Agentic AI & beyond (4 courses + counting)
+- 🧠 &nbsp;**Andela AI Engineering Bootcamp** alumni — trained under **Ed Donner** across LLM Engineering, Agentic AI & beyond
 - ☁️ &nbsp;**AWS** practitioner since 2020 — scaling AI on real infrastructure
 - 🏫 &nbsp;Mentored **200+ Java developers** at **Decagon** (2024)
 - 🔁 &nbsp;Automating workflows at scale with **N8N** and **Make**
@@ -84,6 +84,7 @@ I'm an **AI Forward Deployed Engineer** — I take AI from prototype to producti
 
 | | Course | Certificate |
 |---|---|---|
+| 🔄 | **Andela AI Engineering Bootcamp** (Ed Donner) | *In Progress — cert on completion* |
 | ✅ | AI / LLM Engineering | [View](https://www.udemy.com/certificate/UC-ce61573d-5627-42b7-860b-da69dd198c68/) |
 | ✅ | Agentic AI | [View](https://www.udemy.com/certificate/UC-ba0e42b1-444d-4e77-a97b-1688410c7693/) |
 | ✅ | AI Tools & Workflows | [View](https://www.udemy.com/certificate/UC-5806ab2c-e65b-427a-8000-0299a981127a/) |
