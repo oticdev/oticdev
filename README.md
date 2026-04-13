@@ -2,12 +2,34 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Victor+Ojo;AI+Forward+Deployed+Engineer;LLMs+%E2%86%92+Production+Systems;Voice+Agents+%7C+Digital+Twins+%7C+Agentic+Workflows" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojov/)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/spaces/ojov/careerchatbot)
-[![Voice Agent](https://img.shields.io/badge/Voice%20Agent-Live%20Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://voiceagent-flame.vercel.app/)
-[![Profile Views](https://komarev.com/ghpvc/?username=oticdev&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/oticdev)
+<a href="https://www.linkedin.com/in/ojov/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/linkedin-dark.svg">
+    <img src="img/linkedin-light.svg" height="40" alt="LinkedIn" />
+  </picture>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/oticdev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/github-dark.svg">
+    <img src="img/github-light.svg" height="40" alt="GitHub" />
+  </picture>
+</a>
+&nbsp;&nbsp;
+<a href="https://voiceagent-flame.vercel.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/globe-dark.svg">
+    <img src="img/globe-light.svg" height="40" alt="Voice Agent" />
+  </picture>
+</a>
+&nbsp;&nbsp;
+<a href="https://huggingface.co/spaces/ojov/careerchatbot">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Digital%20Twin-FFD21E?style=flat-square&logoColor=black" height="28" alt="HuggingFace" />
+</a>
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=oticdev&color=00d4ff&style=flat-square&label=PROFILE+VIEWS" height="28" alt="Profile Views" />
 
 </div>
 
@@ -34,22 +56,47 @@ I'm an **AI Forward Deployed Engineer** — I take AI from prototype to producti
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![Vapi](https://img.shields.io/badge/Vapi%20Voice-FF6B35?style=flat-square)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
 
 **Automation**
 
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Cloud & Deploy**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![HuggingFace Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Dev Tools**
+
+<a href="#">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/intellij-light.svg">
+    <img src="img/intellij-light.svg" height="28" alt="IntelliJ IDEA" />
+  </picture>
+</a>
+&nbsp;
+<a href="#">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/terminal-dark.svg">
+    <img src="img/terminal-light.svg" height="28" alt="Terminal" />
+  </picture>
+</a>
+&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
@@ -116,7 +163,27 @@ I'm an **AI Forward Deployed Engineer** — I take AI from prototype to producti
 
 I'm open to **AI consulting**, **FDE roles**, and **collaborating on agentic systems**.
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojov/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorojo007@gmail.com)
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/ojov/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/linkedin-dark.svg">
+    <img src="img/linkedin-light.svg" height="40" alt="LinkedIn" />
+  </picture>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/oticdev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/github-dark.svg">
+    <img src="img/github-light.svg" height="40" alt="GitHub" />
+  </picture>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:victorojo007@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/globe-dark.svg">
+    <img src="img/globe-light.svg" height="40" alt="Email" />
+  </picture>
+</a>
 
 </div>
