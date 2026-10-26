@@ -127,13 +127,6 @@ I'm an **AI Forward Deployed Engineer** — I take AI from prototype to producti
 
 <div align="center">
 
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oticdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oticdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=oticdev&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
@@ -164,8 +157,8 @@ I'm open to **AI consulting**, **FDE roles**, and **collaborating on agentic sys
 &nbsp;&nbsp;
 <a href="mailto:victorojo007@gmail.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/globe-dark.svg">
-    <img src="img/globe-light.svg" height="40" alt="Email" />
+    <source media="(prefers-color-scheme: dark)" srcset="img/mail-dark.svg">
+    <img src="img/mail-light.svg" height="40" alt="Email" />
   </picture>
 </a>
 
