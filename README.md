@@ -40,7 +40,7 @@
 I'm an **AI Forward Deployed Engineer** — I take AI from prototype to production. With **4 years of backend engineering** and AWS roots since 2020, I bring the engineering depth to make AI systems reliable, scalable, and actually useful in customer environments.
 
 - 🚀 &nbsp;Shipping **voice agents**, **RAG systems**, and **agentic pipelines** in production
-- 🧠 &nbsp;**Andela AI Engineering Bootcamp** alumnus — trained under **Ed Donner** across LLM Engineering, Agentic AI & beyond
+- 🧠 &nbsp;**Andela AI Engineering Bootcamp** graduate — trained under **Ed Donner** across LLM Engineering, Agentic AI & beyond
 - ☁️ &nbsp;**AWS** practitioner since 2020 — scaling AI on real infrastructure
 - 🏫 &nbsp;Mentored **200+ Java developers** at **Decagon** (2024)
 - 🔁 &nbsp;Automating workflows at scale with **N8N** and **Make**
@@ -80,16 +80,7 @@ I'm an **AI Forward Deployed Engineer** — I take AI from prototype to producti
 
 **Dev Tools**
 
-<img src="img/intellij-light.svg" height="28" alt="IntelliJ IDEA" />
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/terminal-dark.svg">
-  <img src="img/terminal-light.svg" height="28" alt="Terminal" />
-</picture>
-&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+<img src="img/intellij-light.svg" height="20" alt="IntelliJ IDEA" /> <picture><source media="(prefers-color-scheme: dark)" srcset="img/terminal-dark.svg"><img src="img/terminal-light.svg" height="20" alt="Terminal" /></picture> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
@@ -124,12 +115,11 @@ I'm an **AI Forward Deployed Engineer** — I take AI from prototype to producti
 
 | | Course | Certificate |
 |---|---|---|
-| 🔄 | **Andela AI Engineering Bootcamp** (Ed Donner) | *In Progress — cert on completion* |
+| 🎓 | **Andela AI Engineering Bootcamp** — Generative & Agentic AI in Production (Ed Donner) | *Graduated* |
 | ✅ | AI / LLM Engineering | [View](https://www.udemy.com/certificate/UC-ce61573d-5627-42b7-860b-da69dd198c68/) |
 | ✅ | Agentic AI | [View](https://www.udemy.com/certificate/UC-ba0e42b1-444d-4e77-a97b-1688410c7693/) |
 | ✅ | AI Tools & Workflows | [View](https://www.udemy.com/certificate/UC-5806ab2c-e65b-427a-8000-0299a981127a/) |
 | ✅ | LinkedIn Learning — AI | [View](https://www.linkedin.com/learning/certificates/8bdeb12a7fb41d8b5b5a14a2be096fee5b677c6d27d2cb934970411894a7b15b) |
-| 🔄 | Generative & Agentic AI in Production | *In Progress* |
 
 ---
 
