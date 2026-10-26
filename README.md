@@ -40,7 +40,7 @@
 I'm an **AI Forward Deployed Engineer** — I take AI from prototype to production. With **4 years of backend engineering** and AWS roots since 2020, I bring the engineering depth to make AI systems reliable, scalable, and actually useful in customer environments.
 
 - 🚀 &nbsp;Shipping **voice agents**, **RAG systems**, and **agentic pipelines** in production
-- 🧠 &nbsp;**Andela AI Engineering Bootcamp** alumni — trained under **Ed Donner** across LLM Engineering, Agentic AI & beyond
+- 🧠 &nbsp;**Andela AI Engineering Bootcamp** alumnus — trained under **Ed Donner** across LLM Engineering, Agentic AI & beyond
 - ☁️ &nbsp;**AWS** practitioner since 2020 — scaling AI on real infrastructure
 - 🏫 &nbsp;Mentored **200+ Java developers** at **Decagon** (2024)
 - 🔁 &nbsp;Automating workflows at scale with **N8N** and **Make**
@@ -80,23 +80,16 @@ I'm an **AI Forward Deployed Engineer** — I take AI from prototype to producti
 
 **Dev Tools**
 
-<a href="#">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/intellij-light.svg">
-    <img src="img/intellij-light.svg" height="28" alt="IntelliJ IDEA" />
-  </picture>
-</a>
+<img src="img/intellij-light.svg" height="28" alt="IntelliJ IDEA" />
 &nbsp;
-<a href="#">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/terminal-dark.svg">
-    <img src="img/terminal-light.svg" height="28" alt="Terminal" />
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/terminal-dark.svg">
+  <img src="img/terminal-light.svg" height="28" alt="Terminal" />
+</picture>
 &nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 
 ---
 
@@ -106,7 +99,7 @@ I'm an **AI Forward Deployed Engineer** — I take AI from prototype to producti
   <tr>
     <td align="center" width="50%">
       <a href="https://voiceagent-flame.vercel.app/">
-        <img src="https://img.shields.io/badge/🎙️%20AI%20Voice%20Agent-Live-00D4FF?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/🎙️%20AI%20Voice%20Agent-Live-00D4FF?style=for-the-badge" alt="AI Voice Agent" />
       </a>
       <br/><br/>
       <strong>Production Voice Agent</strong>
@@ -115,7 +108,7 @@ I'm an **AI Forward Deployed Engineer** — I take AI from prototype to producti
     </td>
     <td align="center" width="50%">
       <a href="https://huggingface.co/spaces/ojov/careerchatbot">
-        <img src="https://img.shields.io/badge/🤖%20Digital%20Twin-Live-FFD21E?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/🤖%20Digital%20Twin-Live-FFD21E?style=for-the-badge" alt="Digital Twin" />
       </a>
       <br/><br/>
       <strong>AI Digital Twin (RAG)</strong>
@@ -144,14 +137,14 @@ I'm an **AI Forward Deployed Engineer** — I take AI from prototype to producti
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oticdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oticdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oticdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oticdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=oticdev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=oticdev&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
